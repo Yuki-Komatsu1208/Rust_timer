@@ -1,0 +1,12 @@
+  {
+      "version": "0.2.0",
+      "configurations": [
+          {
+              "name": "Dioxus Desktopを起動",
+              "type": "node-terminal",
+              "request": "launch",
+              "command": "dx serve --desktop",
+              "cwd": "${workspaceFolder}"
+          }
+      ]
+  }
